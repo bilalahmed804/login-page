@@ -30,12 +30,10 @@ button.addEventListener('click', function(){
         alert("Enter your input feild")
         }else{
             
-            let create = document.getElementById('btn22')
             
-            create.addEventListener('click',function(){
                 window.location.href ="HTML/index.html";
                 
-                })
+            
                 let arrOne = [];
                 
                 let userObj = {
