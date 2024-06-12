@@ -31,7 +31,7 @@ button.addEventListener('click', function(){
         }else{
             
             
-                window.location.href ="HTML/index.html";
+                window.location.href ="HTML/login.html";
                 
             
                 let arrOne = [];
